@@ -1,0 +1,1 @@
+# Qualcomm-Atheros-QCA6174-Linux-Firmware-fixer
